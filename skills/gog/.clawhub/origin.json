@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "registry": "https://clawhub.ai",
+  "slug": "gog",
+  "ownerHandle": "steipete",
+  "installedAt": 1789996119028,
+  "artifact": {
+    "kind": "archive",
+    "sha256": "f3d7459428f9204a5437fd62340b3da36534bcf975f2f08f8083bcae287fe63a",
+    "integrity": "sha256-89dFlCj5IEpUN/1iNAs9o2U0vPl18vCPgIO8rih/5jo="
+  },
+  "skillFile": {
+    "path": "SKILL.md",
+    "sha256": "00c1af6cde01299753439088916cb6e245ce00e1672b8cd4305a66d7eac2abad"
+  },
+  "fileTreeSha256": "sha256:db30f498924a9d375cc223e0ec1d3e6ffc5f2d19e66f83f9229f48acea08b408",
+  "installedVersion": "1.0.0"
+}

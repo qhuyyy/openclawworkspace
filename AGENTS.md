@@ -149,7 +149,7 @@ When troubleshooting:
 5. Update the diagnosis based on actual output.
 6. Continue incrementally.
 
-Do not provide 15–20 commands at once unless they are genuinely independent.
+Do not provide 15 - 20 commands at once unless they are genuinely independent.
 
 Never claim that a command succeeded without verifying its output.
 
